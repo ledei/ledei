@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledei&label=Profile%20views&color=0e75b6&style=flat" alt="ledei" /> </p>
 
 - 👨‍🎓 My name is Niklas Nguyen
 - 📚 I’m studying Frontend-devolper at KYH. I'm on my final year at the moment and looking for opportunities.
@@ -8,7 +8,7 @@
 ## 💻 Tech Stack:
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)![Static Badge](https://img.shields.io/badge/ExpressJS-%23000000?style=for-the-badge&logo=express&logoColor=white)![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=white)![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)![Static Badge](https://img.shields.io/badge/NodeJS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Static Badge](https://img.shields.io/badge/ReactNative-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-## 🧑‍💻 About me <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledei&label=Profile%20views&color=0e75b6&style=flat" alt="ledei" /> </p>
+## 🧑‍💻 About me 
 For as long as I can remember I have always loved
  technology and programming, but it always seemed a
  bit intimidating. A few years ago, I am in a new city and

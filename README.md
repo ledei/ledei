@@ -10,19 +10,12 @@
 
 
 ## 🧑‍💻 About me 
-For as long as I can remember I have always loved
- technology and programming, but it always seemed a
- bit intimidating. A few years ago, I am in a new city and
- I jump at the opportunity to study programming to
- become a frontend-developer. As I keep progressing
- my passion for coding grows and so does the smile on
- my face
+I've always been captivated by technology and programming, so after moving to a new city, I seized the opportunity to specialize as a front-end developer. Since then, my skills in coding, especially in React, have grown significantly, as has my passion for the field.
 
 ## 📊 GitHub Stats:
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ledei&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ledei&show_icons=true&theme=dark&locale=en&layout=compact" alt="ledei" />
 </p>
 
 <h3 align="left">Connect with me:</h3>

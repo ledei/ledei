@@ -2,7 +2,6 @@
 
 - 👨‍🎓 My name is Niklas Nguyen
 - 📚 I’m studying Frontend-devolper at KYH. I'm on my final year at the moment and looking for opportunities.
-- 🌱 I’m currently an intern at Gastrogate.
 - 📫 Feel to send me a message: niklas.van.nguyen@gmail.com
  
 ## 💻 Tech Stack:

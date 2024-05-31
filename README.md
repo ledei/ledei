@@ -1,7 +1,7 @@
 ## Hello there 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledei&label=Profile%20views&color=0e75b6&style=flat" alt="ledei" /> </p>
 
 - 👨‍🎓 My name is Niklas Nguyen
-- 📚 I’m studying Frontend-devolper at KYH. I'm on my final year at the moment and looking for opportunities.
+- 📚 I’m Frontend software developer and looking for opportunities.
 - 📫 Feel to send me a message: niklas.van.nguyen@gmail.com
  
 ## 💻 Tech Stack:

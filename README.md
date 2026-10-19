@@ -1,55 +1,18 @@
-<p align="right">
-  <a href="https://github.com/ledei?tab=repositories"><img src="assets/btn-repos.svg" width="168" alt="Repos" /></a>
-  <a href="https://www.linkedin.com/in/niklas-nguyen"><img src="assets/btn-linkedin.svg" width="168" alt="LinkedIn" /></a>
-  <a href="mailto:niklas.van.nguyen@gmail.com"><img src="assets/btn-hej.svg" width="168" alt="Say hej" /></a>
-</p>
+<p align="right"><a href="https://github.com/ledei?tab=repositories"><img src="assets/btn-repos.svg" width="24%" alt="Repos" /></a><a href="https://www.linkedin.com/in/niklas-nguyen"><img src="assets/btn-linkedin.svg" width="24%" alt="LinkedIn" /></a><a href="mailto:niklas.van.nguyen@gmail.com"><img src="assets/btn-hej.svg" width="24%" alt="Say hej" /></a></p>
 
 <p align="center">
-  <img src="assets/card-hero.svg" width="100%" alt="Niklas Nguyen, full-stack developer at Wellr in Eskilstuna, Sweden" />
-</p>
-
-<p align="center">
-  <img src="assets/card-about.svg" width="100%" alt="About: I like working close to the product. Before code I was a CNC machinist at Volvo Group." />
-</p>
-
-<p align="center">
-  <img src="assets/card-quest.svg" width="100%" alt="Current quest: full-stack developer at Wellr, Feb 2025 to now" />
-</p>
-
-<p align="center">
-  <img src="assets/card-log.svg" width="100%" alt="Quest log" />
-</p>
-
-<p align="center">
-  <a href="https://wellr.se"><img src="assets/card-q0.svg" width="100%" alt="Wellr, 2025 – now: Full-stack developer · in progress" /></a>
-</p>
-
-<p align="center">
-  <img src="assets/card-q1.svg" width="100%" alt="Collecti, 2024 – 2025: Frontend developer intern, fintech" />
-</p>
-
-<p align="center">
-  <img src="assets/card-q2.svg" width="100%" alt="Tricom, 2024: Full-stack developer, e-commerce" />
-</p>
-
-<p align="center">
-  <img src="assets/card-q3.svg" width="100%" alt="Gastrogate, 2023 – 2024: Frontend developer intern" />
-</p>
-
-<p align="center">
-  <img src="assets/card-q4.svg" width="100%" alt="KYH, 2022 – 2024: Frontend development studies" />
-</p>
-
-<p align="center">
-  <img src="assets/card-q5.svg" width="100%" alt="Volvo Group, Gnutti Carlo, 2021 – 2022: CNC machinist" />
-</p>
-
-<p align="center">
-  <img src="assets/card-inventory.svg" width="100%" alt="Inventory: React, TypeScript, React Native, C#, .NET, ASP.NET Core, EF Core, SQL, MongoDB, PostgreSQL, GraphQL, UX/UI, Figma" />
-</p>
-
-<p align="center">
-  <a href="mailto:niklas.van.nguyen@gmail.com"><img src="assets/card-talk.svg" width="100%" alt="Let's talk: email niklas.van.nguyen@gmail.com" /></a>
+<a href="https://github.com/ledei"><img src="assets/card-hero.svg" width="100%" alt="Niklas Nguyen, full-stack developer at Wellr in Eskilstuna, Sweden" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-about.svg" width="100%" alt="About: I like working close to the product. Before code I was a CNC machinist at Volvo Group." /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-quest.svg" width="100%" alt="Current quest: full-stack developer at Wellr, Feb 2025 to now" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-log.svg" width="100%" alt="Quest log" /></a><br />
+<a href="https://wellr.se"><img src="assets/card-q0.svg" width="100%" alt="Wellr, 2025 – now: Full-stack developer · in progress" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-q1.svg" width="100%" alt="Collecti, 2024 – 2025: Frontend developer intern, fintech" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-q2.svg" width="100%" alt="Tricom, 2024: Full-stack developer, e-commerce" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-q3.svg" width="100%" alt="Gastrogate, 2023 – 2024: Frontend developer intern" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-q4.svg" width="100%" alt="KYH, 2022 – 2024: Frontend development studies" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-q5.svg" width="100%" alt="Volvo Group, Gnutti Carlo, 2021 – 2022: CNC machinist" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-inventory.svg" width="100%" alt="Inventory: React, TypeScript, React Native, C#, .NET, ASP.NET Core, EF Core, SQL, MongoDB, PostgreSQL, GraphQL, UX/UI, Figma" /></a><br />
+<a href="mailto:niklas.van.nguyen@gmail.com"><img src="assets/card-talk.svg" width="100%" alt="Let's talk: email niklas.van.nguyen@gmail.com" /></a>
 </p>
 
 <p align="center"><sub>Thanks for visiting · Game saved</sub></p>

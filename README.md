@@ -1,35 +1,66 @@
-## Hello there 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ledei&label=Profile%20views&color=0e75b6&style=flat" alt="ledei" /> </p>
-
-- 👨‍🎓 My name is Niklas Nguyen
-- 📚 I’m Frontend | Fullstack software developer and looking for opportunities.
-- 📫 Feel to send me a message: niklas.van.nguyen@gmail.com
- 
-## 🧑‍💻 About me 
-I've always been captivated by technology and programming, so after moving to a new city, I seized the opportunity to specialize as a front-end developer. Since then, my skills in coding, especially in React, have grown significantly, as has my passion for the field.
-
-## 📊 GitHub Stats:
-
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ledei&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="assets/banner.svg" width="100%" alt="Niklas Nguyen, full-stack developer at Wellr, Eskilstuna, Sweden" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/niklas-nguyen-5b203b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niklas-nguyen" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td width="240" valign="top">
+      <img src="assets/portrait.png" width="220" alt="Pixel-art portrait of Niklas Nguyen in round glasses and a grey sweater" />
+    </td>
+    <td valign="top">
+      <h3>Hej! I'm Niklas.</h3>
+      <p>I'm a full-stack developer at Wellr. I turn product ideas into working software: web, mobile and the backend behind them.</p>
+      <p>
+        <b>Class</b> &nbsp;Full-stack developer<br />
+        <b>Guild</b> &nbsp;Wellr, since 2025<br />
+        <b>Home</b> &nbsp;Eskilstuna, Sweden<br />
+        <b>Languages</b> &nbsp;Svenska, English, Tiếng Việt
+      </p>
+    </td>
+  </tr>
+</table>
 
+## About
 
-<!--
-**ledei/ledei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Today</b><br />
+      I like working close to the product, from the first problem to the finished feature, and making it better after it ships.
+    </td>
+    <td width="50%" valign="top">
+      <b>Before code</b><br />
+      I was a CNC machinist at Volvo Group. It taught me quality and precision, and I still build software that way.
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+## Current quest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full-stack developer at Wellr** · Feb 2025 – now
+
+I take features from the first product need through UX, technical design, build, testing and release, across web, mobile and backend. Lately: statistics and insight features that help people understand their activity, mood and sleep.
+
+## Quest log
+
+| When | Where | What |
+| --- | --- | --- |
+| 2025 – now | **Wellr** | Full-stack developer · in progress |
+| 2024 | **Tricom** | Full-stack developer, e-commerce |
+| 2023 – 2024 | **Gastrogate** | Frontend developer intern |
+| 2022 – 2024 | **KYH** | Frontend development studies |
+| 2021 – 2022 | **Volvo Group, Gnutti Carlo** | CNC machinist |
+
+## Inventory
+
+| Frontend | Backend | Data | Design |
+| --- | --- | --- | --- |
+| React, TypeScript, React Native | C#, .NET, ASP.NET Core, EF Core | SQL, MongoDB, PostgreSQL, GraphQL | UX/UI, Figma |
+
+## Let's talk
+
+Questions, ideas or just want to say hej? My inbox is open.
+
+[niklas.van.nguyen@gmail.com](mailto:niklas.van.nguyen@gmail.com) · [LinkedIn](https://www.linkedin.com/in/niklas-nguyen)
+
+<sub>Thanks for visiting · Game saved</sub>

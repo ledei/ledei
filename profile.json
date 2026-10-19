@@ -1,0 +1,78 @@
+{
+  "name": "Niklas Nguyen",
+  "first_name": "Niklas",
+  "handle": "niklas",
+  "role": "Software engineer",
+  "home": "Eskilstuna, Sweden",
+  "languages": "Svenska, English, Vietnamese",
+  "intro": "Hej! I'm Niklas, a software engineer{at_job}, mostly working with React, TypeScript and .NET. I love getting lost in the little details, and I like learning from the people I work with.",
+  "job": {
+    "company": "Wellr",
+    "url": "https://wellr.se",
+    "since": "2025",
+    "period": "Feb 2025 – now",
+    "title": "Software engineer",
+    "text": [
+      "I turn product ideas into full-stack solutions that feel easy to use, across web, mobile and backend with React, TypeScript, C# and .NET.",
+      "I like to follow the whole system, from the first idea through UX, technical design, building and testing, to steady improvements after release. A clear experience for the people using it and tidy data flows under the hood guide my work."
+    ]
+  },
+  "stack": {
+    "frontend": [
+      "React",
+      "TypeScript",
+      "React Native"
+    ],
+    "backend": [
+      "C#",
+      ".NET",
+      "ASP.NET Core",
+      "EF Core"
+    ],
+    "data": [
+      "SQL",
+      "MongoDB",
+      "PostgreSQL",
+      "GraphQL"
+    ],
+    "design": [
+      "UX/UI",
+      "Figma"
+    ]
+  },
+  "quest_log": [
+    {
+      "when": "Feb 2025 – now",
+      "where": "Wellr",
+      "what": "Software engineer · in progress",
+      "url": "https://wellr.se",
+      "current": true
+    },
+    {
+      "when": "Oct 2024 – Jan 2025",
+      "where": "Collecti",
+      "what": "Frontend developer intern, fintech"
+    },
+    {
+      "when": "Aug 2024 – Oct 2024",
+      "where": "Tricom",
+      "what": "Full-stack developer, e-commerce"
+    },
+    {
+      "when": "Nov 2023 – May 2024",
+      "where": "Gastrogate",
+      "what": "Frontend developer intern"
+    },
+    {
+      "when": "Aug 2022 – May 2024",
+      "where": "KYH",
+      "what": "Frontend studies · where it all began",
+      "tag": "New game"
+    }
+  ],
+  "links": {
+    "email": "niklas.van.nguyen@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/niklas-nguyen",
+    "github": "ledei"
+  }
+}

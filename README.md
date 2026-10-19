@@ -1,4 +1,4 @@
-<!-- Generated from profile.json, do not edit by hand. -->
+<!-- Generated from profile.json by tools/build.py, do not edit by hand. -->
 
 <p align="right"><a href="https://github.com/ledei?tab=repositories"><img src="assets/btn-repos.svg" width="24%" alt="Repos" /></a><a href="https://www.linkedin.com/in/niklas-nguyen"><img src="assets/btn-linkedin.svg" width="24%" alt="LinkedIn" /></a><a href="mailto:niklas.van.nguyen@gmail.com"><img src="assets/btn-hej.svg" width="24%" alt="Say hej" /></a></p>
 

@@ -22,6 +22,7 @@ I'm a full-stack developer at Wellr. I turn product ideas into working software:
 
 **Quest log**
 - 2025 – now · Wellr · Full-stack developer
+- 2024 – 2025 · Collecti · Frontend developer intern, fintech
 - 2024 · Tricom · Full-stack developer, e-commerce
 - 2023 – 2024 · Gastrogate · Frontend developer intern
 - 2022 – 2024 · KYH · Frontend development studies

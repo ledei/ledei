@@ -7,11 +7,11 @@
 <a href="https://github.com/ledei"><img src="assets/card-about.svg" width="100%" alt="About, as a terminal: whoami prints Niklas Nguyen, full-stack developer. Stack: React, TypeScript, React Native, C#, .NET, ASP.NET Core, EF Core, SQL, MongoDB, PostgreSQL, GraphQL, UX/UI, Figma." /></a><br />
 <a href="https://wellr.se"><img src="assets/card-quest.svg" width="100%" alt="Current quest: full-stack developer at Wellr, Feb 2025 – now" /></a><br />
 <a href="https://github.com/ledei"><img src="assets/card-log.svg" width="100%" alt="Quest log" /></a><br />
-<a href="https://wellr.se"><img src="assets/card-q0.svg" width="100%" alt="Wellr, 2025 – now: Full-stack developer · in progress" /></a><br />
-<a href="https://github.com/ledei"><img src="assets/card-q1.svg" width="100%" alt="Collecti, 2024 – 2025: Frontend developer intern, fintech" /></a><br />
-<a href="https://github.com/ledei"><img src="assets/card-q2.svg" width="100%" alt="Tricom, Aug – Oct 2024: Full-stack developer, e-commerce" /></a><br />
-<a href="https://github.com/ledei"><img src="assets/card-q3.svg" width="100%" alt="Gastrogate, 2023 – 2024: Frontend developer intern" /></a><br />
-<a href="https://github.com/ledei"><img src="assets/card-q4.svg" width="100%" alt="KYH, 2022 – 2024: Frontend studies · where it all began" /></a><br />
+<a href="https://wellr.se"><img src="assets/card-q0.svg" width="100%" alt="Wellr, Feb 2025 – now: Full-stack developer · in progress" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-q1.svg" width="100%" alt="Collecti, Oct 2024 – Jan 2025: Frontend developer intern, fintech" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-q2.svg" width="100%" alt="Tricom, Aug 2024 – Oct 2024: Full-stack developer, e-commerce" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-q3.svg" width="100%" alt="Gastrogate, Nov 2023 – May 2024: Frontend developer intern" /></a><br />
+<a href="https://github.com/ledei"><img src="assets/card-q4.svg" width="100%" alt="KYH, Aug 2022 – May 2024: Frontend studies · where it all began" /></a><br />
 <a href="mailto:niklas.van.nguyen@gmail.com"><img src="assets/card-talk.svg" width="100%" alt="Let&#x27;s talk: email niklas.van.nguyen@gmail.com" /></a>
 </p>
 
@@ -31,10 +31,10 @@ Hej! I'm Niklas, a full-stack developer at Wellr, mostly working with React, Typ
 **Current quest: full-stack developer at Wellr** (Feb 2025 – now). I take features from the first product need through UX, technical design, build, testing and release, across web, mobile and backend. Lately: statistics and insight features that help people understand their activity, mood and sleep.
 
 **Quest log**
-- 2025 – now · Wellr · Full-stack developer · in progress
-- 2024 – 2025 · Collecti · Frontend developer intern, fintech
-- Aug – Oct 2024 · Tricom · Full-stack developer, e-commerce
-- 2023 – 2024 · Gastrogate · Frontend developer intern
-- 2022 – 2024 · KYH · Frontend studies · where it all began
+- Feb 2025 – now · Wellr · Full-stack developer · in progress
+- Oct 2024 – Jan 2025 · Collecti · Frontend developer intern, fintech
+- Aug 2024 – Oct 2024 · Tricom · Full-stack developer, e-commerce
+- Nov 2023 – May 2024 · Gastrogate · Frontend developer intern
+- Aug 2022 – May 2024 · KYH · Frontend studies · where it all began
 
 </details>
